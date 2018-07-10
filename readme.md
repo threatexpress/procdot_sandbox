@@ -6,15 +6,14 @@ Quick Malware Analysis Toolkit
 
 - graphviz - http://www.graphviz.org/
 - ProcDOT - http://www.procdot.com/
-- Regshot - https://sourceforge.net/projects/regshot/
 - WinPcap - https://www.winpcap.org/
 - Windump - https://www.winpcap.org/windump/default.htm
-- Sysinternals Suite - https://docs.microsoft.com/en-us/sysinternals/
-- PSR - Problem Step Recorder (Built into Windows)
+- ProcMon [Sysinternals Suite https://docs.microsoft.com/en-us/sysinternals/](https://docs.microsoft.com/en-us/sysinternals/)
+- PSR - Problem Step Recorder (Built in Windows tool)
 
 OPTIONAL: Python to run CSV_parser 
 
-CSV_parser contains a python script that can help filter the procmon CSV logs
+The CSV_parser directory contains a python script that can help filter noise from the procmon CSV logs.
 
 --------------
 ## Installation
