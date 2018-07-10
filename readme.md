@@ -2,10 +2,13 @@
 
 Quick Malware Analysis Toolkit. This repository contains quick setup notes to setup a malware analysis sandbox using a variety of tools and uses ProcDot to perform the analysis.
 
+These instructions are very highlevel. You will need to adjust to work in your lab.
+
 [ProcDot](http://www.procdot.com/)
 
 ## Requirements
 
+- Target OS (Windows 10/7)
 - graphviz - http://www.graphviz.org/
 - ProcDOT - http://www.procdot.com/
 - WinPcap - https://www.winpcap.org/
