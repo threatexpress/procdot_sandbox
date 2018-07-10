@@ -4,13 +4,13 @@ Quick Malware Analysis Toolkit
 
 ## Requirements
 
-graphviz - http://www.graphviz.org/
-ProcDOT - http://www.procdot.com/
-Regshot - https://sourceforge.net/projects/regshot/
-WinPcap - https://www.winpcap.org/
-Windump - https://www.winpcap.org/windump/default.htm
-Sysinternals Suite - https://docs.microsoft.com/en-us/sysinternals/
-PSR - Problem Step Recorder (Built into Windows)
+- graphviz - http://www.graphviz.org/
+- ProcDOT - http://www.procdot.com/
+- Regshot - https://sourceforge.net/projects/regshot/
+- WinPcap - https://www.winpcap.org/
+- Windump - https://www.winpcap.org/windump/default.htm
+- Sysinternals Suite - https://docs.microsoft.com/en-us/sysinternals/
+- PSR - Problem Step Recorder (Built into Windows)
 
 OPTIONAL: Python to run CSV_parser 
 
