@@ -1,6 +1,8 @@
 # ProDot Sandbox - AutoAnalysis
 
-Quick Malware Analysis Toolkit
+Quick Malware Analysis Toolkit. This repository contains quick setup notes to setup a malware analysis sandbox using a variety of tools and uses ProcDot to perform the analysis.
+
+[ProcDot](http://www.procdot.com/)
 
 ## Requirements
 
@@ -27,6 +29,8 @@ The CSV_parser directory contains a python script that can help filter noise fro
 ### ProcDOT
 
 Open ProcDOT and configure the following options
+
+**Note:** More detailed installation information can be found here [ProcDot](http://www.procdot.com/)
 
 __Path to windump/tcpdump__
 
