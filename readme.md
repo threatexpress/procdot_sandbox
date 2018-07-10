@@ -66,8 +66,8 @@ __In Procmon__
 
 __Monitoring Logs__
 
-Procmon: <browse to procmon capture.csv>
-Procmon: <browse to pcap capture.pcap>
+Procmon:   browse to procmon capture.csv
+Procmon: browse to pcap capture.pcap
 
 2. Click ... in the Launcher button to analyze logs
 
@@ -78,7 +78,9 @@ Procmon: <browse to pcap capture.pcap>
 5. Proceed to analyze results
 
 --------------
-## Tuning logs
+## Analyst Tips 
+
+__Tune logs__
 
 - Consider filtering out unnecessary data from PCAP
 - Consider removing unnecessary procmon logs from the report
