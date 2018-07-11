@@ -1,0 +1,14 @@
+WinDump.exe
+Procmon.exe
+Procmon64.exe
+psr.exe
+procdot.exe
+SearchProtocolHost.exe
+SearchIndexer.exe
+VBoxService.exe
+csrss.exe
+--ITEMS BELOW THIS LINE MAY FILTER OUT GOOD DATA--
+#explorer.exe
+#svchost.exe
+#mmc.exe
+#conhost.exe

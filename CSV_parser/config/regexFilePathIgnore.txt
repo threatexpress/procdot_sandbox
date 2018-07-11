@@ -1,0 +1,31 @@
+^.*capture.pml$
+^.*capture.csv$
+^.*capture.pcap$
+^c\:\\.*?\\.*?\\.*?\\.*?\\history\.ie5\\mshist[0-9]*\\index\.dat$
+^c\:\\.*?\\.*?\\.*?\\.*?\\microsoft\\windows\\usrclass\.dat$
+^c\:\\.*?\\.*?\\.*?\\.*?\\microsoft\\windows\\usrclass\.dat\.log$
+^c\:\\.*?\\.*?\\.*?\\sun\\java\\deployment\\cache\\6\.0\\[0-9]+\\[0-9a-f\-]+-temp$
+^c\:\\.*?\\.*?\\.*?\\sun\\java\\deployment\\cache\\6\.0\\[0-9]+\\[0-9a-f\-]+\.idx$
+^c\:\\.*?\\.*?\\.*?\\sun\\java\\deployment\\cache\\6\.0\\lastaccessed$
+^c\:\\.*?\\.*?\\.*?\\sun\\java\\deployment\\deployment\.properties$
+^c\:\\.*?\\.*?\\.*?\\temp\\jar_cache[0-9]+\.tmp$
+^c\:\\.*?\\.*?\\.*?\\temp\\minibis-cpp-transfer\.bat$
+^c\:\\.*?\\.*?\\.*?\\temp\\minibis-cpp\.out\.[0-9]+$
+^c\:\\.*?\\.*?\\.*?\\temp\\windump\.pcap$
+^c\:\\.*?\\.*?\\.*?\\temporary internet files\\content\.ie5$
+^c\:\\.*?\\.*?\\.*?\\temporary internet files\\content\.ie5\\cache[^\\]*$
+^c\:\\.*?\\.*?\\.*?\\temporary internet files\\content\.ie5\\index\.dat$
+^c\:\\.*?\\.*?\\.*\\temp\\minibis\.bat$
+^c\:\\.*?\\.*?\\ntuser\.dat$
+^c\:\\.*?\\.*?\\ntuser\.dat\.log$
+^c\:\\.*?\\capture\\capture_.*?_.*?\.zip$
+^c\:\\.*?\\capture\\logs\\.*?\.pcap$
+^c\:\\windows\\prefetch\\.*?\-.*?\.pf$
+^c\:\\.*?\\.*?\\.*?\\macromedia\\flash player\\macromedia\.com\\support\\flashplayer\\sys\\settings.sxx$
+^c\:\\.*?\\.*?\\.*?\\macromedia\\flash player\\macromedia\.com\\support\\flashplayer\\sys\\settings.sxx$
+^c\:\\.*?\\.*?\\.*?\\macromedia\\flash player\\macromedia\.com\\support\\flashplayer\\sys\\settings.sol$
+^c:\\windows\\system32\\perf.*?\.dat
+^[a-z]:\\.*?\\.*?\\.*?\\.*?\\microsoft\\windows media\\.*?\\wmsdkns\.xml$
+^[a-z]:\\.*?\\.*?\\.*?\\.*?\\microsoft\\windows media\\.*?\\wmsdknsd\.xml$
+^[a-z]:\\.*?\\.*?\\.*?\\.*?\\microsoft\\windows media\\.*?\\wmsdknsr\.xml$
+^[a-z]:\\.*?\\.*?\\.*?\\.*?\\microsoft\\windows media\\.*?\\wmsdkns\.dtd$

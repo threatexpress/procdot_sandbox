@@ -1,0 +1,38 @@
+*\cachelimit
+*captureprocessmonitor*
+*captureregistrymonitor*
+*procmon23*
+hkcu\sessioninformation\programcount
+hkcu\software\microsoft\direct3d\mostrecentapplication\name
+hkcu\software\microsoft\windows\currentversion\explorer\shell folders\cache
+hkcu\software\microsoft\windows\currentversion\explorer\shell folders\cookies
+hkcu\software\microsoft\windows\currentversion\explorer\startpage\programscache
+hklm\software\microsoft\cryptography\rng\seed
+hklm\software\microsoft\directdraw\mostrecentapplication\id
+hklm\software\microsoft\directdraw\mostrecentapplication\name
+hklm\software\microsoft\windows nt\currentversion\prefetcher\lasttracefailure
+hklm\software\microsoft\windows nt\currentversion\prefetcher\tracesprocessed
+hklm\software\microsoft\windows nt\currentversion\prefetcher\tracessuccessful
+hklm\software\microsoft\windows\currentversion\internet settings\cache\paths\path2\cachepath
+hklm\software\microsoft\windows\currentversion\internet settings\cache\paths\path3\cachepath
+hklm\system\currentcontrolset\services\kmixer\enum\nextinstance
+hklm\system\currentcontrolset\services\kmixer\enum\count
+hklm\system\currentcontrolset\services\wmiaprpl\performance\last counter
+hklm\system\currentcontrolset\services\wmiaprpl\performance\last help
+hklm\system\currentcontrolset\services\wmiaprpl\performance\first counter
+hklm\system\currentcontrolset\services\wmiaprpl\performance\object list
+hklm\system\currentcontrolset\services\wmiaprpl\performance\first help
+hklm\software\microsoft\wbem\providers\performance\performance refresh
+hklm\software\microsoft\wbem\wdm\dredge\c:\windows\system32\advapi32.dll[mofresourcename]
+hklm\software\microsoft\wbem\wdm\dredge\c:\windows\system32\drivers\mssmbios.sys[mofresource]
+hklm\software\microsoft\wbem\wdm\dredge\c:\windows\system32\drivers\pcntpci5.sys[ndismofresource]
+hklm\software\microsoft\wbem\wdm\dredge\c:\windows\system32\drivers\acpi.sys[acpimofresource]
+hklm\software\microsoft\wbem\wdm\dredge\c:\windows\system32\drivers\ipnat.sys[ipnatmofresource]
+hklm\software\microsoft\wbem\wdm\dredge\c:\windows\system32\drivers\http.sys[ulmofresource]
+hklm\software\microsoft\wbem\wdm\dredge\c:\windows\system32\drivers\ac97intc.sys[mofresourcename]
+hklm\software\microsoft\wbem\providers\performance\performance refreshed
+hklm\software\microsoft\windows nt\currentversion\perflib\last counter
+hklm\software\microsoft\windows nt\currentversion\perflib\last help
+hklm\software\microsoft\windows nt\currentversion\perflib\updating
+hklm\system\currentcontrolset\services\kmixer\enum\0
+hkcr\libraryfolder\docobject
